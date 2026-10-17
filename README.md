@@ -8,6 +8,7 @@ Nor, did the manufacturer bother providing software / protocols to do this.
 
 I did go skimming thru the provided code, and found that it was using a simple based I2C protocol.
 So, I slapped this code together for I2C in Micropython.
+
 And, voila ! - it worked.
 
 For anybody who wants to use the Tab5 Keyboard on the Pico, etc - here it is !
