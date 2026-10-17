@@ -1,6 +1,6 @@
 # Tab5-Keyboard_I2C-Access_from-MicroPython-Pico
 
-How to use the Tab5-Keyboard using I2C in MicroPython on Pico PICO-2 / Esp32 / CYD / Arduino etc.
+How to use the Tab5-Keyboard using I2C in MicroPython on Pico PICO-2 / Esp32 / CYD / Arduino / etc.
 
 <img width="447" height="447" alt="Tab5_Keyboard" src="https://github.com/user-attachments/assets/5a0cdcae-1f7f-4f51-a3b4-a1dd90618f3c" />
 https://shop.m5stack.com/cdn/shop/files/Keyboard_for_Tab5_4_1200x1200.webp?v=1786608177
